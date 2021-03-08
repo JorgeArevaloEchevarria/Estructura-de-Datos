@@ -1,0 +1,16 @@
+alta nave1
+mantenimiento nave1 motor 2
+mantenimiento cabina 1
+alta nave2
+mantenimiento laser 1
+modulos nave1
+modulos nave2
+estropear nave1 motor
+estropear nave2 laser
+defectuosas
+estropear nave1 motor
+mantenimiento nave2 laser 2
+defectuosas
+alta nave1
+FIN
+
