@@ -1,0 +1,7 @@
+la raiz compararla con el maximo del lado izquierdo,
+ y el minimo del lado derecho con el mayor que la raiz
+hacer un struct y devolverlo como funcion
+inicializar los valores, al valor de la raiz
+
+en eliminar se pone sustituyendo el menor del hijo derecho
+(ejercicio hoja el nodo 23 cuando se elimina el 20)
